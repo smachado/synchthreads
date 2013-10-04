@@ -1,2 +1,2 @@
-# Ejemplo de sincronismo
+# Ejemplo (guarrindongo) de sincronismo
 
